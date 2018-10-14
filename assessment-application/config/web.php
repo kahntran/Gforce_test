@@ -41,10 +41,6 @@ $config = [
                 'password' => 'vkzjfffwwqdjhqjn',
                 'port' => 587,
                 'encryption' => 'tls',
-
-//                'port' => '587',
-//                'port' => 465,
-//                'encryption' => 'ssl',
             ],
         ],
         'log' => [
