@@ -50,4 +50,11 @@
     * Edit web.php:
         * ['mailer']['transport']['username'] = gmail_account
         * ['mailer']['transport']['password'] = gmail_app_password
+        
+# Local result
+* Test failed:
+      * BugReportFormCest (Failed: submitEmptyForm, submitFormSuccessfully)
+      * UserTest (Failed: testFindUserById, testFindUserByUsername . Skipped: testValidateUser)
+
+* "Create tests for completed functionality" : Not Done
 
