@@ -53,6 +53,7 @@
         
 # Local result
 * Test failed:
+
       * BugReportFormCest (Failed: submitEmptyForm, submitFormSuccessfully)
       * UserTest (Failed: testFindUserById, testFindUserByUsername . Skipped: testValidateUser)
 
